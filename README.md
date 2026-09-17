@@ -20,3 +20,27 @@ L’étude porte sur plus de 327 000 accidents corporels et met en évidence les
 
 ## Ouvrir le projet
 Téléchargez ou clonez le dépôt, puis ouvrez les notebooks avec Jupyter Notebook et le fichier `.pbix` avec Power BI Desktop.
+
+## Aperçu du dashboard Power BI
+
+Le rapport Power BI permet d'explorer les accidents routiers en France entre 2019 et 2024 à travers quatre axes d'analyse.
+
+### 1. Vue d'ensemble
+Synthèse des principaux indicateurs : nombre d'accidents, gravité, accidents mortels, évolution annuelle et répartition par région et type de route.
+
+![Vue d'ensemble du dashboard Power BI](Dashboard_Vue_Ensemble_png.PNG)
+
+### 2. Analyse temporelle et impact du Covid-19
+Analyse de l'évolution des accidents entre 2019 et 2024, avec un focus sur l'impact de l'année 2020 ainsi que les variations mensuelles, hebdomadaires et horaires.
+
+![Analyse temporelle et Covid-19](Dashboard_Analyse_Temporelle_COVID_png.PNG)
+
+### 3. Analyse des facteurs de risque
+Étude des accidents selon le type de route, la vitesse, la luminosité et les conditions météorologiques.
+
+![Analyse des facteurs de risque](Dashboard_Analyse_Risque.PNG)
+
+### 4. Analyse géographique et profil des usagers
+Analyse de la répartition géographique des accidents et des profils des usagers selon l'âge, le sexe et la gravité.
+
+![Analyse géographique et profil des usagers](Dashboard_Analyse_Geographique_Profil_usagers_png.PNG)
